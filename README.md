@@ -5,6 +5,7 @@ Click on link to view Dashboard on Tableau Public: [NYC Bike Share Dashboard](ht
 ## Overview of Analaysis
 
 ## Results
+A summary of our key visualizations are shown below:
 
 ![August Peak Hours](https://user-images.githubusercontent.com/106921601/190526199-7a84066d-05c2-48c7-974c-04ad7695cc67.PNG)
 
