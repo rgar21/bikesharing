@@ -8,7 +8,7 @@ Click on link to view Dashboard on Tableau Public: [NYC Bike Share Dashboard](ht
 A summary of our key visualizations are shown below:
 
 ![August Peak Hours](https://user-images.githubusercontent.com/106921601/190526199-7a84066d-05c2-48c7-974c-04ad7695cc67.PNG)
-
+Based on the number of bikes in use we can determine the busiest times 8AM and 5-6PM as these correspond with commutes.
 ![Checkout Times for Users](https://user-images.githubusercontent.com/106921601/190526204-7b9d9ade-7e2b-43c6-afa2-923f809eafb9.PNG)
 
 ![Checkouts Times by Gender](https://user-images.githubusercontent.com/106921601/190526206-e73b95af-c838-4d30-8337-9bc842651bf3.PNG)
