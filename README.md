@@ -2,7 +2,8 @@
 
 Click on link to view Dashboard on Tableau Public: [NYC Bike Share Dashboard](https://public.tableau.com/app/profile/rafael.garza1677/viz/NYCBikeSharing_16632004364770/NYCBikeShare?publish=yes)
 
-## Overview of Analaysis
+## Overview of the Analysis:
+The purpose of this analysis is to provide our client with data that will support a proposal to investors to invest in a bike-sharing program for the city of Des Moines, Iowa. Using a data set of a similar bike-share program in New York City we were able to create visualizations that will breakdown bike usage by user type, gender, and time values. 
 
 ## Results
 A summary of our key visualizations are shown below:
@@ -29,3 +30,7 @@ When we breakdown the previous map by gender, we can see that the same demand ho
 This heat map shows us that a majority of our bike trips come from "Female" and "Male" subscribers.
 
 ## Summary
+
+Based off the analysis of our key visuals we can determine that males make up a large portion of our user pool, and not only that but a majority of bike usage takes place during morning and afternoon commute times. Our data also suggest that the majority of our bike usage comes from subsribed daily commuters. When we compare this with our most common trip duration of 5 minutes, it is safe to assume that most of our users live close to their place of work. This supports our advocacy for a bike program in Des Moines as most of the intended user base will be commuters that will be traversing a short distance to work.  An additional visualization that could aid our proposal to investors is to compare revenue between normal customers and subscribers. 
+
+We should look further into start and end location to determine.
