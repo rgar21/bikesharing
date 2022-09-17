@@ -20,10 +20,12 @@ Similar to our previous graph, we are now able to see trip duration based on gen
 Based on this map we can see that Manhattan is the most popular place to begin a trip. This could be due to the many companies headquartered here.
 
 ![Trips by Weekday](https://user-images.githubusercontent.com/106921601/190526234-9fee23e9-74a0-4b98-9fac-8ae124a562a6.PNG)
-
+Based on this heat map we can determine that bike sharing is most popular during weekday commute times. When compared to weekend demand, we can make the assertion that most of our users are commuters rather than tourists. 
 
 ![Trips by Gender](https://user-images.githubusercontent.com/106921601/190526231-f08a1b6e-c101-41fc-bec2-a8aac85e0350.PNG)
+When we breakdown the previous map by gender, we can see that the same demand holds true for both "Female" and "Male" users.
 
 ![User Trips by Gender](https://user-images.githubusercontent.com/106921601/190526237-bad92b34-6254-460d-b9ce-18d3cfa653e1.PNG)
+This heat map shows us that a majority of our bike trips come from "Female" and "Male" subscribers.
 
 ## Summary
